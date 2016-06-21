@@ -1,0 +1,1 @@
+concrete GraspCatDut of GraspCat = CatDut ** GraspCatI with (Cat=CatDut);
